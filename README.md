@@ -4,7 +4,6 @@
 Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding, identifying, and mitigating digital threats. This GitHub space is where I showcase my hands-on projects in Risk Management, Incident Response, Security Automation and Cloud Security Configurations. My goal is to build robust defenses and contribute to a more secure digital landscape. Dive into my repositories to see how I'm putting theory into practice!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in I.T has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) and help in any way that i can.
 
